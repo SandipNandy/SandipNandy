@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @SandipNandy
+-  💨6️⃣Σ✅ Lean Six Sigma Certfied (Certified by The Council of Six Sigma Certification)
+- 💻 + 🌐 + 🇮🇳 Intelligent Process Automation Professional (Certified by NASSCOM & Ministry of Electronics and Information Technology, Govt. of India)
 - 👀 I’m interested in Programming and Learning new and challenging things
 - 🌱 I’m currently learning Automation Technologies,AI-ML-DL, DEVOPS,CLOUD TECHNOLOGIES
 - 💞️ I’m looking to collaborate on Open source projects, any kinds of projects that is related to AI-ML-DL or Automation Technologies
