@@ -22,7 +22,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Sandip from West Bengal<br><br>- 🔭 I’m working as Senior Engineer - DevOps & Cloud<br>- 📚 I'm currently learning AI enabled Platform/ Infra Program & Product Management <br>- ⚡ In my free time I building product and writing codes</p>
+<p align="left">I'm Sandip from West Bengal<br><br>- 🔭 I’m working as Senior Engineer - DevOps & Cloud<br>- 📚 I'm currently learning AI & Cloud enabled Platform/ Infra Program & Product Management <br>- ⚡ In my free time I building product and writing codes</p>
 
 ###
 
