@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Sandip from West Bengal<br><br>- 🔭 I’m working as Senior Engineer - Chaos & Cloud Observability<br>- 📚 I'm currently learning AI & Cloud enabled Platform/ Infra Program & Product Management <br>- ⚡ Beyond my core work, I actively build AI/ML prototypes and cloud-native tools to explore emerging technologies hands-on <br>- 🚀🧩 I cultivate a forward-looking product mindset by architecting experimental AI/cloud platforms and contributing to the open-source infrastructure that will define tomorrow's stack</p>
+<p align="left">I'm Sandip from West Bengal<br><br>- 🔭 I’m working as Senior Engineer - API,Performance & Cloud Observability<br>- 📚 I'm currently learning AI & Cloud enabled Platform/ Infra Program & Product Management <br>- ⚡ Beyond my core work, I actively build AI/ML prototypes and cloud-native tools to explore emerging technologies hands-on <br>- 🚀🧩 I cultivate a forward-looking product mindset by architecting experimental AI/cloud platforms and contributing to the open-source infrastructure that will define tomorrow's stack</p>
 
 ###
 
